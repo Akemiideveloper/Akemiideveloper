@@ -55,54 +55,7 @@ Este é um **site profissional moderno** desenvolvido com as melhores práticas 
 - **Design**: Font Awesome, Google Fonts (Inter)
 - **Estrutura**: Arquitetura modular e organizada
 
-### 📁 Estrutura do Projeto
-
-```
-project site/
-├── index.html          # Página principal
-├── styles/
-│   └── main.css       # Estilos principais
-├── js/
-│   ├── main.js        # JavaScript principal
-│   ├── portfolio.js   # Funcionalidades do portfólio
-│   └── contact.js     # Formulário de contato
-├── src/
-│   ├── main.ts        # TypeScript principal
-│   ├── types/         # Definições de tipos
-│   └── utils/         # Utilitários
-└── package.json       # Dependências e scripts
-```
-
-## 🚀 Como Executar
-
-1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/seu-usuario/site-profissional.git
-   cd site-profissional
-   ```
-
-2. **Instale as dependências**
-   ```bash
-   npm install
-   ```
-
-3. **Execute o projeto**
-   ```bash
-   npm run dev
-   ```
-
-4. **Acesse no navegador**
-   ```
-   http://localhost:3000
-   ```
-
-## 📝 Scripts Disponíveis
-
-- `npm run dev` - Inicia o servidor de desenvolvimento
-- `npm run build` - Compila o TypeScript
-- `npm run watch` - Compila TypeScript em modo watch
-- `npm run lint` - Executa o ESLint
-- `npm run format` - Formata o código com Prettier
+ettier
 
 ## 📫 Onde me encontrar:
 
@@ -112,9 +65,3 @@ project site/
 - 📸 **Instagram**: [@seu_instagram]
 - 💼 **Portfólio**: [seu-portfolio.com]
 
----
-
-<div align="center">
-  <p>⭐ Se este projeto te ajudou, considere dar uma estrela!</p>
-  <p>🤝 Contribuições são sempre bem-vindas!</p>
-</div>
