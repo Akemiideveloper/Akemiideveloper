@@ -1,90 +1,120 @@
-<!-- 🌌 AKEMI DEVELOPER - FUTURISTIC GITHUB PROFILE -->
+<!-- ===============================
+   ⚡ AKEMI DEVELOPER — Animated README
+   Bilingual | Futuristic • Neon • Professional
+   =============================== -->
+
+<p align="center">
+  <!-- Animated banner (replace URL if you want a custom one) -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Akemi Developer - banner" width="900"/>
+</p>
 
 <h1 align="center">⚡ Akemi Developer ⚡</h1>
 <p align="center">
-  💻 <strong>Full Stack Developer</strong> & 🚀 <strong>Software Engineer</strong><br/>
-  🌍 Web • 📱 Mobile • 🖥 Desktop • 🗄 Databases • ⚙ APIs
+  <strong>Full Stack Developer</strong> &amp; <strong>Software Engineer</strong> — Web • Mobile • Desktop • Databases • APIs
 </p>
 
 ---
 
-## 🛰 About Me | Sobre Mim
+## 🌐 Quick Intro | Introdução Rápida
 
 **EN:**  
-I am a **Full Stack Developer** and **Software Engineer** specialized in creating scalable, secure, and high-performance solutions.  
-I work with **web, desktop, and mobile** applications, API integrations, and database optimization.  
-Passionate about **technology**, **innovation**, and continuous learning.
+I build scalable, secure and high-performance applications across the full stack — web, mobile and desktop. I enjoy designing clean architecture, optimizing databases and delivering reliable APIs.
 
 **PT-BR:**  
-Sou **Desenvolvedor(a) Full Stack** e **Engenheiro(a) de Software** especializado(a) em criar soluções escaláveis, seguras e de alta performance.  
-Atuo no desenvolvimento de aplicações **web, desktop e mobile**, integração de APIs e otimização de bancos de dados.  
-Apaixonado(a) por **tecnologia**, **inovação** e aprendizado contínuo.
+Eu construo aplicações escaláveis, seguras e de alta performance — web, mobile e desktop. Gosto de projetar arquiteturas limpas, otimizar bancos de dados e entregar APIs confiáveis.
 
 ---
 
-## 🛠 Tech Stack | Stack Tecnológica
+## 🛠️ Tech Stack | Stack Tecnológica
 
 <div align="center">
+  <!-- Animated micro-icons (GIF examples) -->
+  <img src="https://i.gifer.com/origin/6a/6acde0c5cfb2a1a5f0a3f9a6c6b2b8b1.gif" width="48" alt="code" title="Web">
+  <img src="https://i.gifer.com/origin/8f/8f8b3b3b89aefc6d3d9d9a4f2b3a6d9d.gif" width="48" alt="mobile" title="Mobile">
+  <img src="https://i.gifer.com/origin/7b/7b1b2a3b4c5d6e7f8a9b0c1d2e3f4a5b.gif" width="48" alt="database" title="DB">
+  <img src="https://i.gifer.com/origin/4f/4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f.gif" width="48" alt="api" title="APIs">
+</div>
 
-### 💻 Web
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="50" title="Svelte"/>  
+**Highlights | Principais competências**
+- Frontend: HTML5, CSS3, JavaScript, TypeScript, React, Svelte  
+- Mobile: Flutter, Native Android (Java/Kotlin)  
+- Desktop: Electron, Python desktop apps  
+- Backend & APIs: Node.js, Express, Java, Python  
+- Databases: PostgreSQL, MySQL, MongoDB  
+- Tools: Git, Docker, CI/CD, ESLint, Prettier
 
-### 📱 Mobile
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" title="Flutter"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>  
+---
 
-### 🖥 Desktop
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="50" title="Electron"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>  
+## 🚀 What I Build | O que eu desenvolvo
 
-### 🗄 Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>  
+- **Web platforms** — responsive, accessible and optimized.  
+- **Mobile apps** — cross-platform and native performance.  
+- **Desktop software** — native-feel apps with modern stacks.  
+- **APIs & integrations** — REST/GraphQL, secure and versioned.  
+- **Database design & optimization** — indexing, migrations, performance tuning.
 
-### ⚙ Backend & APIs
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>  
+---
 
+## 📊 GitHub Overview
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akemiideveloper&show_icons=true&theme=radical" alt="GitHub stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akemiideveloper&layout=compact&theme=radical" alt="Top languages"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🛰️ Projects Snapshot | Projetos em destaque
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akemiideveloper&show_icons=true&theme=radical"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akemiideveloper&layout=compact&theme=radical"/>
-</div>
+> Add a short list of 3–5 projects here. Example:
+
+- **Project A** — Scalable e-commerce platform (React, Node.js, Postgres)  
+- **Project B** — Cross-platform mobile app (Flutter + Firebase)  
+- **Project C** — Desktop analytics tool (Electron + Python)  
+
+*(Tip: link each project to the repo or a live demo.)*
 
 ---
 
-## 📡 Contact | Contato
+## 📫 Contact | Contato
 
-**EN:** Let's work together on innovative projects!  
-**PT-BR:** Vamos trabalhar juntos em projetos inovadores!  
+**EN:** Interested in collaboration or hiring? Reach out!  
+**PT-BR:** Interessado em colaborar ou contratar? Entre em contato!
 
 <p align="center">
-<a href="mailto:youremail@email.com">
-  <img src="https://img.shields.io/badge/Email-ff3131?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>  
-<a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0041ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>  
-<a href="https://twitter.com/your_twitter" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>  
-<a href="https://www.instagram.com/your_instagram" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>  
-<a href="https://your-portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>  
+  <a href="mailto:youremail@email.com">
+    <img src="https://img.shields.io/badge/Email-ff2d55?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
+  </a>
 </p>
+
+---
+
+## 🎛️ Custom Animated Banner — Want a custom one?
+
+I can create a **custom neon/futuristic banner** (SVG or GIF) with:
+- Custom text (e.g. “Akemi Developer — Full Stack”)
+- Color palette (neon cyan / magenta / purple / black)
+- Optional subtitle (e.g. “Web • Mobile • Desktop • Databases”)
+
+**Tell me:**  
+1. Banner text exactly as you want it.  
+2. Preferred color scheme (pick one or more: cyan, magenta, purple, green, blue, red, gold).  
+3. Banner dimensions (e.g. 900×180).  
+
+I will produce a ready-to-use banner GIF or SVG and give you the final asset.
+
+---
+
+**Notes / Tips:**  
+- GitHub sanitizes some SVG animations; GIF is the safest for consistent animation.  
+- After adding the README, review on mobile as well — animated banners can be large; consider a smaller fallback image for mobile.  
+- Want subtle motion only? I can make a lightweight 1–2 MB GIF or an optimized APNG.
+
+---
+
