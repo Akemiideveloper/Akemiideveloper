@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Akemi Developer</h1>
 <p align="center">
-  <b>Full Stack Developer</b> • <b>Software Engineer</b> • <b>Systems Programmer</b>  
-  🌍 Web • 📱 Mobile • 🖥 Desktop • 🗄 Databases • ⚙ Low-Level Development
+  <b>Full Stack Developer</b> • <b>Software Engineer</b> • <b>Mobile & Desktop Specialist</b>  
+  🌍 Web • 📱 Mobile • 🖥 Desktop • 🗄 Databases • ⚙ APIs & Cloud
 </p>
 
 ---
@@ -9,37 +9,33 @@
 ## 📄 About Me | Sobre Mim
 
 **EN:**  
-I am a **Full Stack Developer** and **Software Engineer** with expertise in **web, mobile, desktop, and systems programming**.  
-I deliver **secure**, **high-performance**, and **scalable** solutions, combining **clean code**, **optimized databases**, and **modern interfaces**.
+Full Stack Developer and Software Engineer with expertise in **high-demand technologies** for the global market. I create **scalable**, **secure**, and **high-performance** solutions for **web, mobile, and desktop**, integrating modern APIs and cloud services.
 
 **PT-BR:**  
-Sou **Desenvolvedor(a) Full Stack** e **Engenheiro(a) de Software** com experiência em **web, mobile, desktop e programação de sistemas**.  
-Entrego soluções **seguras**, **altamente performáticas** e **escaláveis**, unindo **código limpo**, **bancos de dados otimizados** e **interfaces modernas**.
+Desenvolvedor(a) Full Stack e Engenheiro(a) de Software com experiência nas **tecnologias mais requisitadas** no mercado global. Crio soluções **escaláveis**, **seguras** e de **alta performance** para **web, mobile e desktop**, integrando APIs modernas e serviços em nuvem.
 
 ---
 
 ## 🛠 Tech Stack | Stack Tecnológica
 
-| **Category** | **Technologies** |
-|--------------|------------------|
-| 🎨 **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26"/> HTML5 • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26"/> CSS3 • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26"/> JavaScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26"/> TypeScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26"/> React • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="26"/> Svelte • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="26"/> Vue.js • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="26"/> Angular |
-| 📱 **Mobile** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="26"/> Flutter • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="26"/> Java (Android) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="26"/> Kotlin • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="26"/> Swift (iOS) |
-| 🖥 **Desktop** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="26"/> Electron • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26"/> Python • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="26"/> Java • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="26"/> C++ • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="26"/> C# (.NET) |
-| 🗄 **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26"/> MySQL • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="26"/> PostgreSQL • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26"/> MongoDB • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="26"/> SQLite • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="26"/> OracleDB |
-| ⚙ **Backend & APIs** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26"/> Node.js • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26"/> Express • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="26"/> Java (Spring) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26"/> Python (Django / Flask) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="26"/> PHP (Laravel) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="26"/> Go |
-| 🔧 **Systems Programming** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="26"/> C++ • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="26"/> C • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="26"/> Rust • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="26"/> Assembly |
+| **Category** | **Market-Relevant Technologies** |
+|--------------|----------------------------------|
+| 🎨 **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"/> HTML5 • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"/> CSS3 • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/> JavaScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/> TypeScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/> React • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="28"/> Angular |
+| 📱 **Mobile** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="28"/> Flutter • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="28"/> Kotlin (Android) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="28"/> Swift (iOS) |
+| 🖥 **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28"/> Node.js • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28"/> Express • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"/> Java (Spring) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> Python (Django / Flask) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="28"/> Go |
+| 🗄 **Databases & Cloud** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28"/> PostgreSQL • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28"/> MongoDB • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> MySQL • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28"/> Docker • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="28"/> AWS |
+| 🔧 **Other Skills** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> Git • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"/> Linux • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28"/> C++ • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28"/> C# (.NET) |
 
 ---
 
 ## 🚀 What I Deliver | O que Entrego
 
-✅ **High-performance web platforms** | Plataformas web de alta performance  
-✅ **Cross-platform mobile apps** | Aplicativos mobile multiplataforma  
-✅ **Desktop software with modern UI** | Software desktop com UI moderna  
-✅ **Secure APIs & integrations** | APIs seguras e integrações confiáveis  
-✅ **Optimized databases** | Bancos de dados otimizados  
-✅ **Systems programming & automation** | Programação de sistemas e automações  
-✅ **Custom tools & scripts** | Ferramentas e scripts personalizados
+✔ **Web platforms with modern UI/UX** | Plataformas web com UI/UX modernas  
+✔ **Cross-platform mobile applications** | Aplicativos mobile multiplataforma  
+✔ **Robust and secure backends** | Backends robustos e seguros  
+✔ **Optimized and scalable databases** | Bancos de dados otimizados e escaláveis  
+✔ **Cloud-ready deployments** | Deploys prontos para nuvem  
+✔ **API integrations and automation** | Integrações de APIs e automações
 
 ---
 
