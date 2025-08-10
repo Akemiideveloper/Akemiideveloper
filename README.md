@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Akemi Dev</h1>
+<h1 align="center">🚀 Akemi Developer</h1>
 <p align="center">
   <b>Full Stack Developer</b> | <b>Software Engineer</b><br/>
   🌍 Web • 📱 Mobile • 🖥 Desktop • 🗄 Databases • ⚙ Systems Programming
@@ -68,4 +68,47 @@ Meu foco é código limpo, performance e design centrado no usuário.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26"/> Node.js &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26"/> Express &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="26"/> Java &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26"/> Python
+</td>
+</tr>
+
+<tr>
+<td><b>Systems Programming</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="26"/> C++ &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="26"/> C# &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="26"/> .NET
+</td>
+</tr>
+
+</table>
+
+---
+
+## 🚀 What I Deliver | O que Entrego
+
+✅ **High-performance web platforms** | Plataformas web de alta performance  
+✅ **Cross-platform mobile apps** | Aplicativos mobile multiplataforma  
+✅ **Desktop software with modern UI** | Software desktop com UI moderna  
+✅ **Secure APIs & integrations** | APIs seguras e integrações confiáveis  
+✅ **Optimized databases** | Bancos de dados otimizados  
+✅ **Systems programming & automation** | Programação de sistemas e automações
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akemiideveloper&show_icons=true&theme=default"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akemiideveloper&layout=compact&theme=default"/>
+</div>
+
+---
+
+## 📫 Contact | Contato
+
+📧 **Email:** [youremail@email.com](mailto:youremail@email.com)  
+💼 **LinkedIn:** [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)  
+🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
+
+---
