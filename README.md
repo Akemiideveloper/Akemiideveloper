@@ -1,17 +1,17 @@
 # Akemi Developer
 
 **Full Stack Developer** | **Software Engineer**  
-Web • Mobile • Desktop • Databases • APIs
+Web • Mobile • Desktop • Databases • APIs • Systems Programming
 
 ---
 
 ## 📄 About Me | Sobre Mim
 
 **EN:**  
-I am a **Full Stack Developer** and **Software Engineer** with solid experience in building scalable, secure, and high-performance solutions. I work with **web, mobile, and desktop** applications, API integrations, and database optimization. My focus is on clean code, performance, and user-centered design.
+I am a **Full Stack Developer** and **Software Engineer** with solid experience in building scalable, secure, and high-performance solutions. I work with **web, mobile, desktop, and systems programming**, API integrations, and database optimization. My focus is on clean code, performance, and user-centered design.
 
 **PT-BR:**  
-Sou **Desenvolvedor(a) Full Stack** e **Engenheiro(a) de Software** com sólida experiência na criação de soluções escaláveis, seguras e de alta performance. Atuo no desenvolvimento de aplicações **web, mobile e desktop**, integração de APIs e otimização de bancos de dados. Meu foco é código limpo, performance e design centrado no usuário.
+Sou **Desenvolvedor(a) Full Stack** e **Engenheiro(a) de Software** com sólida experiência na criação de soluções escaláveis, seguras e de alta performance. Atuo no desenvolvimento de aplicações **web, mobile, desktop e programação de sistemas**, integração de APIs e otimização de bancos de dados. Meu foco é código limpo, performance e design centrado no usuário.
 
 ---
 
@@ -24,6 +24,7 @@ Sou **Desenvolvedor(a) Full Stack** e **Engenheiro(a) de Software** com sólida 
 | **Desktop** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="20"/> Electron, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python |
 | **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> PostgreSQL, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB |
 | **Backend & APIs** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> Node.js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20"/> Express, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python |
+| **Systems Programming** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> C++, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="20"/> .NET |
 
 ---
 
@@ -33,7 +34,8 @@ Sou **Desenvolvedor(a) Full Stack** e **Engenheiro(a) de Software** com sólida 
 - **Cross-platform mobile apps** | Aplicativos mobile multiplataforma  
 - **Desktop software with modern UI** | Software desktop com UI moderna  
 - **Secure APIs & integrations** | APIs seguras e integrações confiáveis  
-- **Optimized databases** | Bancos de dados otimizados
+- **Optimized databases** | Bancos de dados otimizados  
+- **Systems programming & automation** | Programação de sistemas e automações
 
 ---
 
@@ -48,8 +50,7 @@ Sou **Desenvolvedor(a) Full Stack** e **Engenheiro(a) de Software** com sólida 
 
 ## 📫 Contact | Contato
 
-- **Email:** [youremail@email.com](mailto:youremail@email.com)  
-- **LinkedIn:** [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)  
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
+- **Email:** [hunteqy@gmail.com](mailto:hunteqy@gmail.com)  
+- **LinkedIn:** [x)   
 
 ---
